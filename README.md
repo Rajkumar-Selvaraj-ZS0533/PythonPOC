@@ -4,4 +4,6 @@
 
 3. Download dependencies from the requirment.txt file - 'pip install -r requirements.txt'
 
-4. For Running the application - 'python erp.py'
+4. Please make sure to have a Postgres DB in local.
+
+5. For Running the application - 'python erp.py'
